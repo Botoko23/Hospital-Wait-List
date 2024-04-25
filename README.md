@@ -9,8 +9,8 @@ This project provides an end-to-end data etl and visualization of hospital wait 
 
 
 ## Dashboard
-![Summary](images/Summary.png)
-![Detail](images/Detail.png)
+![Summary](images/Summary.PNG)
+![Detail](images/Detail.PNG)
 
 ## 🛠 Setup & Requirements
 1. **Knowledge requirements**: Python, SQL, Data Modeling, PowerBI.
@@ -21,7 +21,7 @@ This project provides an end-to-end data etl and visualization of hospital wait 
 2. **Connection to a database server**: A database server is needed either cloud or local on computer (local Postgres database server is used in this project).
 3. **ETL**: ETL process of extracting, transform and load data into database is done in `etl.ipynb`. 
 4. **Data modeling**: 
-- ![Data Modeling](images/data_modeling.png)
+- ![Data Modeling](images/data_modeling.PNG)
 5. **Visualization**: Dashboard file named `dashboard.pbix` for the project can be found in `Dashboard` directory.
 
 ## 📝 Notes
